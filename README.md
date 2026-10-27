@@ -51,7 +51,7 @@ I used OpenAI's ChatGPT (GPT-6).
 
 ChatGPT assisted with the Lua implementation, debugging, and documentation. The plugin's concept, functionality, design decisions, and testing were made by me.
 
-The project is maintained by the repository author. No copyright ownership or authorship is claimed on behalf of ChatGPT or OpenAI.
+The project is maintained by me. No copyright ownership or authorship is claimed on behalf of ChatGPT or OpenAI.
 
 
 ## License
