@@ -88,6 +88,14 @@ The plugin does not use `--delete` or `--checksum`.
 - **No cancellation interface:** The plugin does not currently provide a dedicated transfer cancellation command.
 - **Symbolic links:** Source/destination safety checks use path comparisons and do not fully resolve symbolic links.
 
+## AI Assistance
+
+This plugin was developed with the assistance of OpenAI's ChatGPT (GPT-6).
+
+ChatGPT assisted with the Lua implementation, debugging, and documentation. The plugin's concept, functionality, design decisions, and testing were directed by the repository author.
+
+The project is maintained by the repository author. No copyright ownership or authorship is claimed on behalf of ChatGPT or OpenAI.
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
